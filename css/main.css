@@ -1,0 +1,98 @@
+
+/* REMOVE DEFAULT STYLES*/
+
+.navbar ul{
+margin: 0;
+padding: 0;
+
+}
+
+p {
+margin: 0;
+padding: 0;
+
+}
+
+a {
+text-decoration: none;
+
+}
+
+/* GENERAL (TWO PAGES) */
+
+.col {
+
+float: left;
+width: 46%;
+margin: 0 2% 0 2%;
+
+}
+
+
+
+/* FIRST AND SECOND COLUMN SIZE */
+
+.first section {
+width: 31.33%;
+float: right;
+padding: 0 2% 5% 0;
+
+}
+
+.second section {
+width: 31.33%;
+float: right;
+padding: 0 2% 5% 0;
+}
+
+/* NAVBAR*/
+
+header {
+width: 100%;
+border: 1px solid black;
+}
+
+
+
+
+.navbar {
+
+	border: 1px solid black;
+}
+
+/* POSITION NAVRIGHT*/
+
+.navright {
+float: right;
+text-align: right;
+width: 100%;
+border: 1px solid black;
+}
+
+ .navright li {
+	display: inline;
+
+
+}
+
+
+/* MORE BUTTON */
+
+
+.first section p {
+margin: 4% 0 4% 0;
+
+}
+
+.second section p {
+margin: 4% 0 4% 0;
+
+}
+
+
+span {
+background-color: black;
+width: 100%;
+
+}
+
